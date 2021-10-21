@@ -3,11 +3,13 @@ A simple java database which is capable of storing urls and displaying it in Tab
 <br>
 Like this
 👇
+
 <div>
 <h2> Inorder to run this: </h2>
   <ol>
-    <li>First Execute the file: (https://github.com/injusticescorpio/cec_application_software_lab_1/blob/master/application%20software.sql)</li>
-    <li>Type Run</li>
+    <li>First Execute the file: (https://github.com/injusticescorpio/Java_URL_Database/blob/master/src/com/company/Main.java)</li>
+    <li>Type Run and press Enter</li>
     <li>Then do the necessary actions</li>
+    <li>Inorder to stop the program just type exit and press Enter</li>
     </ol>
   </div>
