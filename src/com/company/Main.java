@@ -8,7 +8,7 @@ public class Main {
         HashMap<String, Integer> counter= new HashMap<String, Integer>();
         HashMap<String, String> short_key = new HashMap<String, String>();
         List <String> li=new ArrayList<>();
-        System.out.println("=====================================================JAVA URL Database=================================================================");
+        System.out.println("=====================================================JAVA URL DATABASE=================================================================");
         System.out.println("To start Enter RUN");
         String intro=sc.nextLine();
         if (intro.toLowerCase().equals("run"))
