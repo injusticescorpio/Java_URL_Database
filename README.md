@@ -3,7 +3,8 @@ A simple java database which is capable of storing urls and displaying it in Tab
 <br>
 Like this
 👇
-
+<br>
+![image](https://github.com/injusticescorpio/Java_URL_Database/blob/master/Screenshot%20(52).png)
 <div>
 <h2> Inorder to run this: </h2>
   <ol>
