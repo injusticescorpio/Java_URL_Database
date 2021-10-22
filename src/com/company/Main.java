@@ -15,8 +15,12 @@ public class Main {
         {
             while (true)
             {
-                System.out.println("Enter command like\n 1. storeurl <url>(Seperated by a whitespace)\n 2.get <url>(Seperated by a whitespace)\n 3.count <url>(Seperated by a whitespace)\n 4.list\n 5.Table_format");
+                System.out.println("Enter command like\n 1. storeurl <url>(Seperated by a whitespace)\n 2.get <url>(Seperated by a whitespace)\n 3.count <url>(Seperated by a whitespace)\n 4.list\n 5.Table_format\n 6.exit\n");
                 String main_input = sc.nextLine().toLowerCase();
+                if (main_input.toLowerCase().equals("exit"))
+                {
+                    break;
+                }
                 if (main_input.toLowerCase().equals("list"))
                 {
                     if (li.isEmpty())
