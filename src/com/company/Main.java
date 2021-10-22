@@ -69,6 +69,7 @@ public class Main {
                         System.out.println("==================================================================");
                         k++;
                     }
+                    continue;
                 }
                 String[] subinput1 = main_input.trim().split(" ");
                 switch (subinput1[0])
